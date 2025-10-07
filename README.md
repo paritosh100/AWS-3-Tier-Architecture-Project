@@ -22,7 +22,7 @@ All resources are deployed within an **Amazon VPC** with isolated **public and p
 
 > _If GitHub does not render the preview automatically, open the PDF link above._
 
-![AWS Three-Tier Architecture Preview](./3-tier_diagram.drawio.pdf)
+![3-tier diagram.drawio.pdf](https://github.com/user-attachments/files/22754799/3-tier.diagram.drawio.pdf)
 
 ---
 
