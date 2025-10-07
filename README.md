@@ -18,11 +18,11 @@ All resources are deployed within an **Amazon VPC** with isolated **public and p
 ## 🧾 Architecture Diagram
 > 📘 Click below to view the full PDF diagram.
 
-[**View Architecture Diagram (PDF)**](./3-tier%20diagram.drawio.pdf)
+[**View Architecture Diagram (PDF)**](./3-tier_diagram.drawio.pdf)
 
 > _If GitHub does not render the preview automatically, open the PDF link above._
 
-![AWS Three-Tier Architecture Preview](./3-tier%20diagram.drawio.pdf)
+![AWS Three-Tier Architecture Preview](./3-tier_diagram.drawio.pdf)
 
 ---
 
