@@ -22,7 +22,7 @@ All resources are deployed within an **Amazon VPC** with isolated **public and p
 
 > _If GitHub does not render the preview automatically, open the PDF link above._
 
-[3-tier diagram.drawio.pdf](./3-tier.diagram.drawio.png)
+![Architecture](3-tier.diagram.drawio.png)
 
 ---
 
