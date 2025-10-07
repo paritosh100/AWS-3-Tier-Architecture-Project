@@ -18,11 +18,11 @@ All resources are deployed within an **Amazon VPC** with isolated **public and p
 ## 🧾 Architecture Diagram
 > 📘 Click below to view the full PDF diagram.
 
-[**View Architecture Diagram (PDF)**](./3-tier_diagram.drawio.png)
+[**View Architecture Diagram (PDF)**](./3-tier_diagram.png)
 
 > _If GitHub does not render the preview automatically, open the PDF link above._
 
-![Architecture](3-tier.diagram.drawio.png)
+![Architecture](3-tier_diagram.png)
 
 ---
 
